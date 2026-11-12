@@ -3,7 +3,7 @@ layout: page
 title: 💖
 ---
 
-<center><img src="/assets/images/photo_2026-11-12_23-49-41.jpg" alt="Описание" width="400"></center>
+<img src="/assets/images/photo_2026-11-12_23-49-41.jpg" alt="Описание" width="400" style="display: block; margin: 0 auto;">
 
 Всем привет! Меня зовут Женя. 35 🎂, ♂️, ♋️. Живу в Красноярске! Тут я родился, вырос, и... пока ещё не умер! 😼 
 
