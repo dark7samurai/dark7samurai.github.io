@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Нейроособенности
+title: Нейро
 ---
 
 https://vk.com/dark7samurai
