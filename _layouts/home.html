@@ -5,17 +5,14 @@ layout: default
   {%- if page.title and page.hide_header != true -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
----
-layout: default
----
-<div class="home">
+
   <div class="top-links">
     <a href="{{ "/cats/" | relative_url }}">Ссылки</a> |
     <a href="{{ "/ai/" | relative_url }}">Обо мне</a> |
     <a href="{{ "/neuro/" | relative_url }}">Статьи</a>
   </div>
   <hr>
-</div>
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
