@@ -7,5 +7,7 @@ hide_header: true
 Добро пожаловать!
 
 <div class="welcome-box">
-  Твой текст приветствия...
+  [Ветеринарная клиника "Фауна" в Красноярске](https://faunavet24.ru/)
+  [Фонд "Счастливые дети"](https://happydeti24.ru/)
+  [Крематорий для животных "Умер Друг"](https://umerdrug.ru/)
 </div>
