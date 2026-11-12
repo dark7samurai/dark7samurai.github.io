@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ИИ
+title: ИИ-творчество
 ---
 
 https://vk.com/dark7samurai
