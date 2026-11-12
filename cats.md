@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Питомцы
+title: Пушистая банда
 ---
 
 https://vk.com/dark7samurai
