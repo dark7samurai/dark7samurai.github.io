@@ -9,6 +9,7 @@ title: dark7samurai
 description: Мои статьи, ссылки и всякое разное!
 
 header_pages:
+  - index.md
   - heart.md
 
 markdown: CommonMarkGhPages
