@@ -11,10 +11,6 @@ description: Мои статьи, ссылки и всякое разное!
 header_pages:
   - index.md
   - heart.md
-  - links.md
-  - projects.md
-  - about.md
-  - coop.md
 
 markdown: CommonMarkGhPages
 commonmark:
