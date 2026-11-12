@@ -39,5 +39,6 @@ details[open] {
   border-bottom: none;
 }
 .top-links {
-  text-align: center;
+  text-align: center !important;
+  display: block;
 }
