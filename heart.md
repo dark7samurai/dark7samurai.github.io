@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💖 Отдамся в хорошие руки!
+title: 💖 Отдамся в хорошие руки! 😼
 ---
 
 <img src="/assets/images/photo_2026-11-12_23-49-41.jpg" alt="Описание" width="400" style="display: block; margin: 0 auto;">
