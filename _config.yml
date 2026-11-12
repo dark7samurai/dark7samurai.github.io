@@ -12,10 +12,7 @@ header_pages:
   - index.md
   - heart.md
   - links.md
-  - cats.md
-  - neuro.md
-  - ai.md
-  - projects
+  - projects.md
   - about.md
   - coop.md
 
