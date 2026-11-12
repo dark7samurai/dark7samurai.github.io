@@ -5,6 +5,11 @@
     {%- include header.html -%}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+        <div class="top-links">
+  <a href="{{ "/links/" | relative_url }}">Ссылки</a> |
+  <a href="{{ "/about/" | relative_url }}">Обо мне</a> |
+  <a href="{{ "/articles/" | relative_url }}">Статьи</a>
+</div>
         {{ content }}
       </div>
     </main>
