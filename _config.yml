@@ -3,3 +3,9 @@ theme: minima
 header_pages:
   - index.md
   - links.md
+  - cats.md
+  - neuro.md
+  - ai.md
+  - projects
+  - about.md
+  - donate.md
