@@ -1,0 +1,21 @@
+---
+---
+
+@import "minima";
+
+details {
+  border: 1px solid #444;
+  border-radius: 6px;
+  padding: 0.5em 1em;
+  margin: 1em 0;
+  background: #1e1e1e;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+details[open] {
+  padding-bottom: 1em;
+}
