@@ -24,3 +24,8 @@ details[open] {
   flex-wrap: wrap;
   gap: 0.5em;
 }
+.top-links + hr {
+  border: none;
+  border-top: 1px solid #444;
+  margin: 0.8em 0 1.5em 0;
+}
