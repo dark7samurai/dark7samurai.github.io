@@ -19,3 +19,8 @@ summary {
 details[open] {
   padding-bottom: 1em;
 }
+.site-nav .trigger {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
