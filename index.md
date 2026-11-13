@@ -8,8 +8,8 @@ hide_header: true
   - [Отдамся в хорошие руки!](https://faunavet24.ru/)
 
 ## 📌 Не реклама
-  - [Ветеринарная клиника "Фауна" в Красноярске](https://2gis.ru/krasnoyarsk/firm/985690699466620){: target="_blank" } | ➡️ [Мой отзыв](https://faunavet24.ru/){: target="_blank" }
-  - [Фонд "Счастливые дети" в Красноярске](https://happydeti24.ru/){: target="_blank" } | ➡️ [Мой отзыв](https://faunavet24.ru/){: target="_blank" }
-  - [Крематорий для животных "Умер Друг" в Красноярске](https://umerdrug.ru/){: target="_blank" } | ➡️ [Мой отзыв](https://faunavet24.ru/){: target="_blank" }
+  - [Ветеринарная клиника "Фауна" в Красноярске](https://2gis.ru/krasnoyarsk/firm/985690699466620){:target="_blank"} | ➡️ [Мой отзыв](https://faunavet24.ru/)
+  - [Фонд "Счастливые дети" в Красноярске](https://happydeti24.ru/) | ➡️ [Мой отзыв](https://faunavet24.ru/)
+  - [Крематорий для животных "Умер Друг" в Красноярске](https://umerdrug.ru/) | ➡️ [Мой отзыв](https://faunavet24.ru/)
 
 <hr>
