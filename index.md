@@ -5,7 +5,7 @@ hide_header: true
 ---
 
 ## 📌 Самореклама
-  - [Отдамся в хорошие руки!](https://faunavet24.ru/)
+  - **[Отдамся в хорошие руки!](https://dark7samurai.github.io/heart.html)**
 
 ## 📌 Не реклама
   - <a href="https://2gis.ru/krasnoyarsk/firm/985690699466620" target="_blank" rel="noopener">Ветеринарная клиника "Фауна" в Красноярске</a> | ➡️ <a href="https://t.me/dark7samurai" target="_blank" rel="noopener">Мой отзыв</a>
