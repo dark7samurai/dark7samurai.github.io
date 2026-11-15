@@ -15,10 +15,18 @@ hide_header: true
 ## 📌 Русификаторы
   - <a href="https://github.com/dark7samurai/the-insider-rus" target="_blank" rel="noopener">**The Insider - Interactive Movie** (Steam)</a>
 
+<hr>
+
 <details>
 <summary>Во что я сейчас играю?</summary>
 
-А вот и скрытый текст. Тут может быть что угодно — объяснение, деталь, картинка.
+- Free Fire
+- Mobile Legends: Bang Bang
+- Magic Chess: Go Go
+- Fall Guys
+- Rocket League
+- Overwatch
+- Genshin Impact
 
 </details>
 
