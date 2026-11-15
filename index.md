@@ -15,18 +15,19 @@ hide_header: true
 ## 📌 Русификаторы
   - <a href="https://github.com/dark7samurai/the-insider-rus" target="_blank" rel="noopener">**The Insider - Interactive Movie** (Steam)</a>
 
-<hr>
+<br>
 
 <details>
 <summary>Во что я сейчас играю?</summary>
 
-- Free Fire
-- Mobile Legends: Bang Bang
-- Magic Chess: Go Go
-- Fall Guys
-- Rocket League
-- Overwatch
-- Genshin Impact
+- **Free Fire**
+- **Mobile Legends: Bang Bang**
+- **Magic Chess: Go Go**
+- **Fall Guys**
+- **Rocket League**
+- **Overwatch**
+- **Genshin Impact**
+- **MapleStory M**
 
 </details>
 
