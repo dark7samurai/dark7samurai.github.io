@@ -15,4 +15,11 @@ hide_header: true
 ## 📌 Русификаторы
   - <a href="https://github.com/dark7samurai/the-insider-rus" target="_blank" rel="noopener">**The Insider - Interactive Movie** (Steam)</a>
 
+<details>
+<summary>Во что я сейчас играю?</summary>
+
+А вот и скрытый текст. Тут может быть что угодно — объяснение, деталь, картинка.
+
+</details>
+
 <hr>
